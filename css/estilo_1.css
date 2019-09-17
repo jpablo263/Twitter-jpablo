@@ -1,0 +1,212 @@
+
+
+body {
+    background-color: #15202b;
+}
+
+.icono_url{
+    width: 16px;
+    height: 16px;
+}
+
+header{
+    background-color: #15202b;
+    height: 70px;
+}
+
+
+.imguser{
+    height: 32px;
+    border-radius: 16px;
+    margin: 7px 0 0 15px;
+}
+
+.home1{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    margin: -27px 0 0 65px;
+    font-family: 'Segoe UI black';
+}
+
+.busqueda{
+    position: relative;
+    margin-left: 70px;
+    margin-top: -30px;
+}
+
+input[type=search] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    border: none;
+
+    border-radius: 15px;
+    height: 30px;
+    width: 230px;
+    background: #253341;
+    color: #6a7a86;
+    border-color: #1da1f2;
+}
+
+
+
+.estrellita{
+    position: relative;
+    left: 89vw;
+    height: 22px;
+    border-radius: 20px;
+    top: -28px;
+}
+
+.rueda{
+    position: relative;
+    left: 89vw;
+    height: 22px;
+    border-radius: 20px;
+    top: -28px;
+}
+
+nav{
+    background-color: #15202b;
+    padding-bottom: -20px ;
+    height: 40px;
+}
+
+
+.nav_busqueda{
+    background-color: #15202b;
+    padding-bottom: -20px ;
+    height: 40px;
+    font-family: 'Segoe UI black';
+    font-size: 13px;
+    color: #6a7a86;
+}
+
+
+
+.col{
+
+}
+
+.col_on{
+    padding-bottom: 10px;
+    border-bottom: solid 3px #1da1f2;
+    color: #1da1f2;
+    text-align: center;
+}
+
+.col_off{
+    padding-bottom: 10px;
+    border-bottom: solid 2px #3d5466;
+    color: #677783;
+    text-align: center;
+}
+
+.pati{
+    color: #1da1f2;
+}
+
+.noti{
+    color: #677783;
+}
+
+.dep{
+    color: #677783;
+}
+
+.divers{
+    color: #677783;
+}
+
+.casita{
+    height:22px;
+}
+
+.lupita{
+    height: 22px;
+}
+
+
+.campanita{
+    height: 22px;
+}
+
+.sobre{
+    width: 22px;
+}
+
+.sobre2{
+    width: 22px;
+    margin-top: -10px;
+}
+
+#casita {
+    min-height: 30px;
+    min-width: 30px;
+    background: url(img/Icono_Home_1_1.png) no-repeat;
+}
+
+
+
+#imagen-cambiante:hover {
+    background: url(img/Icono_Home_1_2.png) no-repeat;
+}
+
+section{
+    background-color: #15202b;
+    height: 200vw;
+}
+
+.pluma_mas{
+    top: 565px;
+    right: 18px;
+    height: 58px;
+    border-radius: 29px;
+    position: fixed;
+}
+
+.pluma_mas2{
+    top: 565px;
+    right: 34px;
+    height: 58px;
+    border-radius: 29px;
+    position: fixed;
+}
+
+.nuevo_mensaje{
+    top: 565px;
+    right: 18px;
+    height: 58px;
+    border-radius: 29px;
+    position: fixed;
+}
+
+.titulo_mensaje{
+    padding-top: 20px;
+    font-family: 'Segoe UI black';
+    font-size: 17.5px;
+    text-align: center;
+    color: #ffffff; 
+    top:20px
+}
+
+.parrafo_mensaje{
+    padding-top: 5px;
+    text-align: center;
+    color: #8899a6; 
+    font-size: 14px;
+}
+
+.comienzo_convers{
+    font-family: 'Segoe UI black';
+    width: 220px;
+    height: 36px;
+    background-color: #1da1f2;
+    border-radius: 18px;
+    color: #ffffff;
+    font-size: 13.5px;
+    text-align: center;
+    margin: 10px auto;
+    padding-top: 7px;
+}
